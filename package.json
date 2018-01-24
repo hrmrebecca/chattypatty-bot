@@ -5,6 +5,7 @@
   "author": "hrmrebecca <hrmrebecca@gmail.com>",
   "description": "test bot extrodinaire",
   "dependencies": {
+    "buffertools": "^2.1.6",
     "flowdock": "^0.9.1",
     "funbox": "0.0.1",
     "hubot": "^2.19.0",
